@@ -1,0 +1,13 @@
+## Interface: 70300
+## Title: AddOnBoilerplate
+## Version: 0.0.0
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: AddOnBoilerplateSaved
+## X-SavedVariable: AddOnBoilerplateSaved
+
+AddOnBoilerplate.lua
+EntryPoint.lua
+Module1.lua
+Module2.lua
+Module3.lua
